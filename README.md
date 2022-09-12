@@ -1,2 +1,2 @@
-# fleska
+# fleksa
 restaurant app demo
